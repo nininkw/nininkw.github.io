@@ -1,0 +1,129 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica Neue, Arial, Hiragino Sans, Meiryo, sans-serif;
+}
+
+.contains {
+  margin-bottom: 80px;
+}
+
+ul {
+  list-style: none;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+}
+
+img {
+  max-width: 100%;
+}
+
+.flex {
+  display: flex;
+  margin-bottom: 60px;
+}
+
+.mainvisual {
+  width: 50%;
+  padding: 0;
+}
+
+.mainvisual img {
+  height: 700px;
+  width: 100%;
+  object-fit: cover;  
+}
+
+.txt-contents {
+  width: 50%;
+  padding: 40px 5% 0 5%;
+}
+
+h1 {
+  font-size: 2.8rem
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 40px;
+  margin-bottom: 15px; 
+  border-bottom: 1px solid #ccc;
+}
+
+dl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+dt {
+  padding: 6px 0 ;
+  font-size: 1.6rem;
+  border-bottom: 1px dotted #ccc;
+  width: 85%;
+}
+
+dd {
+  font-size: 1.6rem;
+  border-bottom: 1px dotted #ccc;
+  width: 15%;
+  text-align: right;
+  padding: 6px 0 ;
+  margin: 0;
+}
+
+ol {
+  padding: 0;
+  list-style-position: inside;
+}
+
+li {
+  font-size: 1.6rem;
+  padding: 6px 0px;
+  border-bottom: 1px dotted #ccc;
+}
+
+.btn {
+  padding: 0 20px;
+  text-align: center;
+}
+
+.btn a {
+  text-decoration: none;
+  padding: 18px 60px;
+  border: 1px solid black;
+  font-size: 1.4rem;
+  display: inline-block;
+}
+
+.footer {
+  width: 100%;
+}
+
+.sns {
+  font-size: 1.2rem;
+  padding: 20px;
+  text-align: center;
+}
+
+.sns ul {
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 0;
+}
+
+.sns li {
+  display: inline-block;
+  border: none;
+}
+
+.sns li a {
+  color: black;
+  margin: 0 10px; 
+}
